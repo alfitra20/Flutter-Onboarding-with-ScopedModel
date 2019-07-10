@@ -1,3 +1,3 @@
-# Flutter-Onboarding-with-ScopedModel
-Flutter Onboarding Application using ScopedModel architecture
+# Flutter Onboarding Application
+Flutter Onboarding Application using *ScopedModel* architecture
 
